@@ -389,7 +389,7 @@ a.contact-btn:hover{
 }
 .wlc-author-1 {
     position: absolute;
-    filter: saturate(0);
+    filter: saturate(0.6);
     /* box-shadow: 0px 65px 64.5px rgba(0,0,0,0.1); */
     right   : 5%;
     width   : 40%;

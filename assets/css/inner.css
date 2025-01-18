@@ -299,8 +299,35 @@ span.single-blog-section-img-tag {
     border-color: #08d665;
 }
 
-.portfolio-bg-1{
+/* .portfolio-bg-1{
     background: url(../img/project/portfolio1.jpg)
+}
+.portfolio-bg-2{
+    background: url(../img/project/portfolio2.jpg)
+}
+.portfolio-bg-3{
+    background: url(../img/project/portfolio3.jpg)
+}
+.portfolio-bg-4{
+    background: url(../img/project/portfolio4.jpg)
+}
+.portfolio-bg-5{
+    background: url(../img/project/portfolio5.jpg)
+}
+.portfolio-bg-6{
+    background: url(../img/project/portfolio6.jpg)
+}
+.portfolio-bg-7{
+    background: url(../img/project/01.jpg)
+}
+.portfolio-bg-8{
+    background: url(../img/project/02.jpg)
+}
+.portfolio-bg-9{
+    background: url(../img/project/03.jpg)
+} */
+.portfolio-bg-1{
+    background: url(/assets/portfolio/portfolio_1.jpg)
 }
 .portfolio-bg-2{
     background: url(../img/project/portfolio2.jpg)
