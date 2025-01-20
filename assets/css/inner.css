@@ -326,32 +326,41 @@ span.single-blog-section-img-tag {
 .portfolio-bg-9{
     background: url(../img/project/03.jpg)
 } */
+/* https://i.ibb.co.com/t8ZzwKV/portfolio-1.jpg
+https://i.ibb.co.com/2k5cpbP/portfolio-2.jpg
+https://i.ibb.co.com/d4wB9Th/portfolio-3.jpg
+https://i.ibb.co.com/7QZp6ny/portfolio-4.jpg
+https://i.ibb.co.com/r3NjQCv/portfolio-5.jpg
+https://i.ibb.co.com/bLvkgj7/portfolio-6.jpg
+https://i.ibb.co.com/nQyJzdx/portfolio-7.jpg
+https://i.ibb.co.com/z57TK7Y/portfolio-8.jpg
+https://i.ibb.co.com/b1RTKCT/portfolio-9.jpg */
 .portfolio-bg-1{
-    background: url(../img/project/portfolio_1.jpg)
+    background: url(https://i.ibb.co.com/t8ZzwKV/portfolio-1.jpg)
 }
 .portfolio-bg-2{
-    background: url(../img/project/portfolio_2.jpg)
+    background: url(https://i.ibb.co.com/2k5cpbP/portfolio-2.jpg)
 }
 .portfolio-bg-3{
-    background: url(../img/project/portfolio_3.jpg)
+    background: url(https://i.ibb.co.com/d4wB9Th/portfolio-3.jpg)
 }
 .portfolio-bg-4{
-    background: url(../img/project/portfolio_4.jpg)
+    background: url(https://i.ibb.co.com/7QZp6ny/portfolio-4.jpg)
 }
 .portfolio-bg-5{
-    background: url(../img/project/portfolio_5.jpg)
+    background: url(https://i.ibb.co.com/r3NjQCv/portfolio-5.jpg)
 }
 .portfolio-bg-6{
-    background: url(../img/project/portfolio_6.jpg)
+    background: url(https://i.ibb.co.com/bLvkgj7/portfolio-6.jpg)
 }
 .portfolio-bg-7{
-    background: url(../img/project/portfolio_7.jpg)
+    background: url(https://i.ibb.co.com/nQyJzdx/portfolio-7.jpg)
 }
 .portfolio-bg-8{
-    background: url(../img/project/portfolio_8.jpg)
+    background: url(https://i.ibb.co.com/z57TK7Y/portfolio-8.jpg)
 }
 .portfolio-bg-9{
-    background: url(../img/project/portfolio_9.jpg)
+    background: url(https://i.ibb.co.com/b1RTKCT/portfolio-9.jpg)
 }
 
 .portfolio-filter {
